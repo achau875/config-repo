@@ -4,6 +4,7 @@ orgs:
 - hawk
 - vulture
 - robin
+- bluebird
 enable-delete-orgs: true
 protected_orgs:
 - system
